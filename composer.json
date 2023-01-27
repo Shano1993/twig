@@ -1,0 +1,17 @@
+{
+    "name": "stefa/twig",
+    "autoload": {
+        "psr-4": {
+            "Stefa\\Twig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shano1993",
+            "email": "stefan.hanotiau@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.5"
+    }
+}
